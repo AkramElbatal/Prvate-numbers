@@ -1,0 +1,15 @@
+D:\test projects\c#\shalaby\Private numbers\Private numbers\bin\Debug\net6.0\Private numbers.exe
+D:\test projects\c#\shalaby\Private numbers\Private numbers\bin\Debug\net6.0\Private numbers.deps.json
+D:\test projects\c#\shalaby\Private numbers\Private numbers\bin\Debug\net6.0\Private numbers.runtimeconfig.json
+D:\test projects\c#\shalaby\Private numbers\Private numbers\bin\Debug\net6.0\Private numbers.dll
+D:\test projects\c#\shalaby\Private numbers\Private numbers\bin\Debug\net6.0\Private numbers.pdb
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\Private numbers.csproj.AssemblyReference.cache
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\Private numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\Private numbers.AssemblyInfoInputs.cache
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\Private numbers.AssemblyInfo.cs
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\Private numbers.csproj.CoreCompileInputs.cache
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\Private numbers.dll
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\refint\Private numbers.dll
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\Private numbers.pdb
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\Private numbers.genruntimeconfig.cache
+D:\test projects\c#\shalaby\Private numbers\Private numbers\obj\Debug\net6.0\ref\Private numbers.dll
